@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project secrets
+.env
+*.env
+secrets.*
+api_key.*
+
+# Raw and processed data
+data/raw/
+data/processed/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# LLM checkpoints
+checkpoints/
+outputs/checkpoints/
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
