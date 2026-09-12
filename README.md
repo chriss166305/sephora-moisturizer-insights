@@ -107,7 +107,7 @@ This design allows the LLM to handle repetitive classification work while preser
 
 ## Data Source
 
-This project uses the third-party Kaggle dataset **Sephora Products and Skincare Reviews**. The raw dataset and SQLite database are not included in this repository. Users should obtain the data directly from its original source and follow the source licensing requirements.
+This project uses the third-party Kaggle dataset **Sephora Products and Skincare Reviews (https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)**. The raw dataset and SQLite database are not included in this repository. Users should obtain the data directly from its original source and follow the source licensing requirements.
 
 ## Limitations
 
