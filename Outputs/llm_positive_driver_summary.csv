@@ -1,0 +1,12 @@
+aspect,reviews_mentioning_driver,unique_brands,unique_product_families,share_of_accepted_positive_reviews_pct,rank
+hydration,123,26,35,70.29,1
+texture_finish,113,25,34,64.57,2
+visible_results,83,25,31,47.43,3
+scent,45,19,22,25.71,4
+absorption_layering,44,18,21,25.14,5
+skin_type_fit,37,16,20,21.14,6
+skin_reaction,36,18,23,20.57,7
+packaging_quantity,27,13,16,15.43,8
+soothing_barrier_repair,25,13,16,14.29,9
+ingredients_formula,17,11,11,9.71,10
+value_price,10,6,6,5.71,11

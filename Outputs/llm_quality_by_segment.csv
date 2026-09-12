@@ -1,0 +1,4 @@
+rating_segment,sample_reviews,grounding_passed,low_confidence,needs_human_review,auto_accepted,auto_acceptance_rate_pct
+negative,600,571,38,66,534,89.0
+mixed,200,188,23,33,167,83.5
+positive,200,192,19,25,175,87.5

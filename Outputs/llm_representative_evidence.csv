@@ -1,0 +1,11 @@
+aspect,brand_name,product_family_name,skin_type,price_band,evidence,review_record_id
+absorption_layering,Benefit Cosmetics,The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,combination,$30–$49.99,does not blends with my foundation,62623c243ccd9f3f5122ae0ffc390a9673f7045b76a2fab6010de4e372fdfc05
+absorption_layering,Biossance,Squalane + Probiotic Balancing Gel Moisturizer,combination,$50–$74.99,it also has the tendency to crumble up under the makeup,03af304b6f65dc53fbd1147754e3ed66358d4966179d9c63e187d727e5d9e902
+hydration,BeautyBio,The ZenBubble Gel Cream,combination,$50–$74.99,this wasn't as hydrating as I hoped it would be,eb4af1d2f9fcb6d0944ac55ccbc70a67a667f39c5c995951b05d297ffda7e959
+hydration,Benefit Cosmetics,The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,combination,$30–$49.99,this does not work for a moisturizer for my dry skin at all. It just isn't like enough,0c0fae218a77c5b7d65af4bbc485d46ab2a60c5f5293601a94cfb0ea46eb39fc
+scent,Benefit Cosmetics,The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,dry,$30–$49.99,"if you're sensitive to strong fragrance, I would reconsider this one",bb4df12abe47e5c11465c1398552f88c273327467fe9bc5ba5d67d80448292be
+scent,Biossance,Squalane + Omega Repair Deep Hydration Moisturizer,normal,$50–$74.99,Like musty old FEET,174c422fc9ecd3693a2bb6a039c73d29b826486a8c23e7c2932691588666d71b
+skin_reaction,Benefit Cosmetics,The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,combination,$30–$49.99,this moisturizer sadly broke me out,62623c243ccd9f3f5122ae0ffc390a9673f7045b76a2fab6010de4e372fdfc05
+skin_reaction,Biossance,Squalane + Probiotic Balancing Gel Moisturizer,combination,$50–$74.99,this product also broke me out on my chin and above the eyebrow area,03af304b6f65dc53fbd1147754e3ed66358d4966179d9c63e187d727e5d9e902
+texture_finish,Benefit Cosmetics,The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,combination,$30–$49.99,It is also incredibly sticky in my skin,0c0fae218a77c5b7d65af4bbc485d46ab2a60c5f5293601a94cfb0ea46eb39fc
+texture_finish,Biossance,Squalane + Probiotic Balancing Gel Moisturizer,combination,$50–$74.99,it leaves a thin film on the face,03af304b6f65dc53fbd1147754e3ed66358d4966179d9c63e187d727e5d9e902
